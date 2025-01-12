@@ -1,0 +1,45 @@
+{
+  "name": "Sernik na zimno z owocami",
+  "description": "Lekki i pyszny sernik na zimno z świeżymi owocami. Idealny deser na letnie dni.",
+  "ingredients": [
+    {
+      "name": "ser twarogowy",
+      "quantity": "500g"
+    },
+    {
+      "name": "śmietanka 30%",
+      "quantity": "200ml"
+    },
+    {
+      "name": "biszkopty",
+      "quantity": "200g"
+    },
+    {
+      "name": "cukier puder",
+      "quantity": "100g"
+    },
+    {
+      "name": "żelatyna",
+      "quantity": "10g"
+    },
+    {
+      "name": "woda",
+      "quantity": "50ml"
+    },
+    {
+      "name": "owoce (np. truskawki, maliny)",
+      "quantity": "200g"
+    }
+  ],
+  "preparation_steps": [
+    "1. Żelatynę rozpuść w wodzie i odstaw do ostygnięcia.",
+    "2. Zmiksuj ser twarogowy, śmietankę i cukier puder na gładką masę.",
+    "3. Dodaj rozpuszczoną żelatynę do masy serowej i dokładnie wymieszaj.",
+    "4. Na dnie formy ułóż biszkopty, a na nie wylej masę serową.",
+    "5. Wstaw sernik do lodówki na co najmniej 4 godziny, aby stężał.",
+    "6. Przed podaniem udekoruj świeżymi owocami."
+  ],
+  "preparation_time": "20 minut + czas chłodzenia",
+  "servings": 8,
+  "category": "Deser"
+}

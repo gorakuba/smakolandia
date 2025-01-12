@@ -1,0 +1,28 @@
+.app {
+  font-family: 'Roboto', sans-serif;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.recipe-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
+
+.recipe-menu {
+  height: 70vh;
+  width: 30vw;
+  padding: 0 8px 8px 8px;
+  overflow-y: auto;
+}
+
+.recipe-menu > p {
+  cursor: pointer;
+}
+
+.recipe-content {
+  height: 70vh;
+  width: 60vw;
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Gulasz wołowy z kaszą gryczaną",
+  "description": "Pyszny gulasz wołowy duszony w aromatycznym sosie, podany z kaszą gryczaną. Syte i rozgrzewające danie.",
+  "ingredients": [
+    {
+      "name": "wołowina (np. łopatka)",
+      "quantity": "500g"
+    },
+    {
+      "name": "kasza gryczana",
+      "quantity": "200g"
+    },
+    {
+      "name": "cebula",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "czosnek",
+      "quantity": "2 ząbki"
+    },
+    {
+      "name": "papryka czerwona",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "pomidor",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "olej",
+      "quantity": "do smażenia"
+    }
+  ],
+  "preparation_steps": [
+    "1. Pokrój wołowinę na kawałki, cebulę i czosnek posiekaj.",
+    "2. Na patelni rozgrzej olej i podsmaż wołowinę, aż się zrumieni.",
+    "3. Dodaj cebulę, czosnek, pokrojoną paprykę i pomidory, smaż przez 5 minut.",
+    "4. Zalej wodą, dopraw solą i pieprzem, gotuj na małym ogniu przez 1,5 godziny.",
+    "5. Ugotuj kaszę gryczaną według instrukcji.",
+    "6. Podawaj gulasz z kaszą."
+  ],
+  "preparation_time": "2 godziny",
+  "servings": 2,
+  "category": "Obiad"
+}

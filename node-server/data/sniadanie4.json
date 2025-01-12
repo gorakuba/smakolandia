@@ -1,0 +1,44 @@
+{
+  "name": "Kanapka z wędzonym łososiem i kremowym serkiem",
+  "description": "Smakowita kanapka z delikatnym wędzonym łososiem i kremowym serkiem, idealna na eleganckie śniadanie.",
+  "ingredients": [
+    {
+      "name": "chleb pełnoziarnisty",
+      "quantity": "2 kromki"
+    },
+    {
+      "name": "wędzony łosoś",
+      "quantity": "100g"
+    },
+    {
+      "name": "kremowy serek",
+      "quantity": "50g"
+    },
+    {
+      "name": "rukola",
+      "quantity": "garść"
+    },
+    {
+      "name": "cytryna",
+      "quantity": "1/2 sztuki"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    }
+  ],
+  "preparation_steps": [
+    "1. Posmaruj jedną kromkę chleba kremowym serkiem.",
+    "2. Na wierzch połóż wędzonego łososia i garść rukoli.",
+    "3. Skrop sokiem z cytryny i dopraw solą oraz pieprzem.",
+    "4. Przykryj drugą kromką chleba.",
+    "5. Podawaj na ciepło lub na zimno."
+  ],
+  "preparation_time": "5 minut",
+  "servings": 1,
+  "category": "Śniadanie"
+}

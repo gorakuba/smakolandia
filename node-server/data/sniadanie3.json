@@ -1,0 +1,41 @@
+{
+  "name": "Jajecznica z pomidorami i szczypiorkiem",
+  "description": "Klasyczna jajecznica z dodatkiem świeżych pomidorów i szczypiorku. Idealna na szybkie i pożywne śniadanie.",
+  "ingredients": [
+    {
+      "name": "jajka",
+      "quantity": "3 sztuki"
+    },
+    {
+      "name": "pomidory",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "szczypiorek",
+      "quantity": "garść"
+    },
+    {
+      "name": "masło",
+      "quantity": "1 łyżeczka"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    }
+  ],
+  "preparation_steps": [
+    "1. Rozgrzej masło na patelni.",
+    "2. Pokrój pomidory na małe kawałki.",
+    "3. Wbij jajka na patelnię i delikatnie mieszaj, aż zaczną się ścinać.",
+    "4. Dodaj pokrojone pomidory i gotuj przez kilka minut.",
+    "5. Posyp całość świeżym szczypiorkiem, dopraw solą i pieprzem.",
+    "6. Podawaj na ciepło."
+  ],
+  "preparation_time": "10 minut",
+  "servings": 1,
+  "category": "Śniadanie"
+}

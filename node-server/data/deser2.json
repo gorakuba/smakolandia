@@ -1,0 +1,32 @@
+{
+  "name": "Lody truskawkowe",
+  "description": "Domowe lody truskawkowe, które są pełne smaku i naturalnych składników. Idealne na gorące dni.",
+  "ingredients": [
+    {
+      "name": "truskawki",
+      "quantity": "300g"
+    },
+    {
+      "name": "śmietanka 30%",
+      "quantity": "250ml"
+    },
+    {
+      "name": "cukier",
+      "quantity": "100g"
+    },
+    {
+      "name": "sok z cytryny",
+      "quantity": "1 łyżka"
+    }
+  ],
+  "preparation_steps": [
+    "1. Zmiksuj truskawki z cukrem na gładką masę.",
+    "2. Ubij śmietankę, aż będzie sztywna.",
+    "3. Wymieszaj zmiksowane truskawki z ubitą śmietanką oraz sokiem z cytryny.",
+    "4. Przełóż mieszankę do pojemnika i wstaw do zamrażarki na 4 godziny.",
+    "5. Po tym czasie lody będą gotowe do podania."
+  ],
+  "preparation_time": "10 minut + czas mrożenia",
+  "servings": 4,
+  "category": "Deser"
+}

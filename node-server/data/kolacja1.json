@@ -1,0 +1,50 @@
+{
+  "name": "Tartaletki z warzywami i serem feta",
+  "description": "Lekkie tartaletki z chrupiącym ciastem, warzywami i serem feta. Idealne na lekką kolację.",
+  "ingredients": [
+    {
+      "name": "ciasto francuskie",
+      "quantity": "1 opakowanie"
+    },
+    {
+      "name": "papryka czerwona",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "cukinia",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "ser feta",
+      "quantity": "100g"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "quantity": "1 łyżka"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "zioła prowansalskie",
+      "quantity": "1 łyżeczka"
+    }
+  ],
+  "preparation_steps": [
+    "1. Rozgrzej piekarnik do 180°C. Ciasto francuskie pokrój na kwadraty i ułóż w foremkach na tartaletki.",
+    "2. Paprykę i cukinię pokrój w drobną kostkę, a ser feta w małe kawałki.",
+    "3. Na patelni rozgrzej oliwę i podsmaż paprykę oraz cukinię przez 3-4 minuty.",
+    "4. Na podpieczone ciasto francuskie nałóż warzywa, a na nie pokruszony ser feta.",
+    "5. Posyp całość ziołami prowansalskimi, solą i pieprzem.",
+    "6. Piecz tartaletki przez około 15-20 minut, aż ciasto będzie złociste i chrupiące.",
+    "7. Podawaj na ciepło."
+  ],
+  "preparation_time": "25 minut",
+  "servings": 2,
+  "category": "Kolacja"
+}

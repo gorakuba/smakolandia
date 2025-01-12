@@ -1,0 +1,44 @@
+{
+  "name": "Zupa krem z brokułów",
+  "description": "Aromatyczna i zdrowa zupa krem z brokułów, idealna na lekkie i pożywne danie.",
+  "ingredients": [
+    {
+      "name": "brokuły",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "cebula",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "ziemniaki",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "bulion warzywny",
+      "quantity": "500ml"
+    },
+    {
+      "name": "śmietana 18%",
+      "quantity": "100ml"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    }
+  ],
+  "preparation_steps": [
+    "1. Ugotuj brokuły i ziemniaki w bulionie warzywnym.",
+    "2. Podsmaż cebulę na patelni, aż będzie miękka.",
+    "3. Wszystko zmiksuj na gładki krem.",
+    "4. Dodaj śmietanę i dopraw solą oraz pieprzem.",
+    "5. Gotuj przez kilka minut, aż zupa zgęstnieje."
+  ],
+  "preparation_time": "30 minut",
+  "servings": 2,
+  "category": "Obiad"
+}

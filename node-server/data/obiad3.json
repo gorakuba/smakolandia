@@ -1,0 +1,49 @@
+{
+  "name": "Klopsiki w sosie pomidorowym",
+  "description": "Mięsne klopsiki w aromatycznym sosie pomidorowym, podane z makaronem lub ryżem. Klasyczne danie kuchni polskiej.",
+  "ingredients": [
+    {
+      "name": "mięso mielone wieprzowo-wołowe",
+      "quantity": "500g"
+    },
+    {
+      "name": "jajko",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "bułka tarta",
+      "quantity": "3 łyżki"
+    },
+    {
+      "name": "pomidory w puszce",
+      "quantity": "400g"
+    },
+    {
+      "name": "cebula",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "czosnek",
+      "quantity": "2 ząbki"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    }
+  ],
+  "preparation_steps": [
+    "1. Z mielonego mięsa, jajka i bułki tartej uformuj klopsiki.",
+    "2. Smaż je na patelni, aż się zrumienią.",
+    "3. W tym samym czasie podsmaż cebulę i czosnek, a następnie dodaj pomidory.",
+    "4. Dopraw sos solą i pieprzem, gotuj przez 10 minut.",
+    "5. Dodaj klopsiki do sosu i gotuj przez 20 minut.",
+    "6. Podawaj z makaronem lub ryżem."
+  ],
+  "preparation_time": "40 minut",
+  "servings": 2,
+  "category": "Obiad"
+}

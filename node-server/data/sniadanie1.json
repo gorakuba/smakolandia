@@ -1,0 +1,35 @@
+{
+  "name": "Smoothie bowl z owocami i granolą",
+  "description": "Pyszna i zdrowa miska smoothie z ulubionymi owocami, granolą i dodatkami. Idealne na letnie śniadanie.",
+  "ingredients": [
+    {
+      "name": "banan",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "jagody",
+      "quantity": "50g"
+    },
+    {
+      "name": "jogurt naturalny",
+      "quantity": "150g"
+    },
+    {
+      "name": "granola",
+      "quantity": "2 łyżki"
+    },
+    {
+      "name": "miód",
+      "quantity": "1 łyżeczka"
+    }
+  ],
+  "preparation_steps": [
+    "1. Zmiksuj banana, jagody i jogurt w blenderze, aż uzyskasz gładką konsystencję.",
+    "2. Przelej smoothie do miski.",
+    "3. Na wierzch dodaj granolę, miód i dodatkowe owoce, jeśli chcesz.",
+    "4. Podawaj od razu."
+  ],
+  "preparation_time": "5 minut",
+  "servings": 1,
+  "category": "Śniadanie"
+}

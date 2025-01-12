@@ -1,0 +1,49 @@
+{
+  "name": "Kurczak w sosie śmietanowym z ziemniakami",
+  "description": "Soczyste kawałki kurczaka w kremowym sosie śmietanowym, podane z gotowanymi ziemniakami. Pyszne, szybkie i sycące danie.",
+  "ingredients": [
+    {
+      "name": "pierś z kurczaka",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "ziemniaki",
+      "quantity": "4 sztuki"
+    },
+    {
+      "name": "śmietana 18%",
+      "quantity": "200ml"
+    },
+    {
+      "name": "czosnek",
+      "quantity": "2 ząbki"
+    },
+    {
+      "name": "masło",
+      "quantity": "2 łyżki"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "koperek",
+      "quantity": "garść"
+    }
+  ],
+  "preparation_steps": [
+    "1. Ugotuj ziemniaki w osolonej wodzie przez około 15-20 minut.",
+    "2. W międzyczasie rozgrzej masło na patelni, dodaj pokrojony w kostkę czosnek i smaż przez 1 minutę.",
+    "3. Dodaj pokrojoną pierś z kurczaka, smaż na złoto z obu stron.",
+    "4. Wlej śmietanę, dopraw solą i pieprzem, gotuj na małym ogniu przez 10 minut.",
+    "5. Posyp danie świeżym koperkiem przed podaniem.",
+    "6. Podawaj kurczaka z ugotowanymi ziemniakami."
+  ],
+  "preparation_time": "30 minut",
+  "servings": 2,
+  "category": "Obiad"
+}
