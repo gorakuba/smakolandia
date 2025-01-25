@@ -7,8 +7,8 @@ export type Recipe = {
   name: string
   description: string
   ingredients: Ingredient[]
-  preparationSteps: string[]
-  preparationTime: string
+  preparation_steps: string[]
+  preparation_time: string
   servings: number
   category: string
 }

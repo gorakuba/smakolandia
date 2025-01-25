@@ -12,6 +12,17 @@ export const App = hot(() => {
     null
   )
 
+  const categories = useMemo(() => {
+    return recipes.reduce((acc, recipe) => {
+      const category = recipe.category || 'Uncategorized'
+      if (!acc[category]) {
+        acc[category] = []
+      }
+      acc[category].push(recipe)
+      return acc
+    }, {} as Record<string, Recipe[]>)
+  }, [recipes])
+
   useEffect(() => {
     axios
       .get('/api/recipes')
@@ -33,12 +44,20 @@ export const App = hot(() => {
 
       <div className='recipe-wrapper'>
         <div className='recipe-menu'>
-          <h3>Menu:</h3>
+          {Object.entries(categories).map(([category, recipes]) => (
+            <div key={category}>
+              <h4 className='category-heading'>{category}</h4>
 
-          {recipes.map(({ name }) => (
-            <p key={name} onClick={() => setSelectedRecipe(name)}>
-              {name}
-            </p>
+              {recipes.map(({ name }) => (
+                <p
+                  key={name}
+                  onClick={() => setSelectedRecipe(name)}
+                  className='recipe-name'
+                >
+                  {name === selectedRecipe ? <strong>{name}</strong> : name}
+                </p>
+              ))}
+            </div>
           ))}
         </div>
 
@@ -46,9 +65,6 @@ export const App = hot(() => {
           {recipes && selectedRecipe ? (
             <RecipeList recipes={recipes} selectedRecipe={selectedRecipe} />
           ) : null}
-          {/* {selectedRecipe === name ? 
-            <RecipeCard/>
-            : null} */}
         </div>
       </div>
     </div>
