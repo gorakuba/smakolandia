@@ -1,0 +1,37 @@
+{
+  "name": "Panna cotta",
+  "description": "Delikatny deser włoski na bazie śmietany i wanilii, idealny na eleganckie przyjęcia.",
+  "ingredients": [
+    {
+      "name": "śmietana 30%",
+      "quantity": "500ml"
+    },
+    {
+      "name": "cukier",
+      "quantity": "100g"
+    },
+    {
+      "name": "żelatyna",
+      "quantity": "10g"
+    },
+    {
+      "name": "laska wanilii",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "woda",
+      "quantity": "50ml"
+    }
+  ],
+  "preparation_steps": [
+    "1. Żelatynę rozpuść w wodzie i odstaw na kilka minut.",
+    "2. W garnku zagotuj śmietanę z cukrem oraz nasionkami z laski wanilii.",
+    "3. Gdy śmietana zacznie wrzeć, zdejmij ją z ognia i dodaj rozpuszczoną żelatynę.",
+    "4. Wymieszaj całość i przelej do foremek.",
+    "5. Odstaw do lodówki na co najmniej 4 godziny.",
+    "6. Podawaj z owocami lub polewą czekoladową."
+  ],
+  "preparation_time": "15 minut + czas chłodzenia",
+  "servings": 4,
+  "category": "Deser"
+}

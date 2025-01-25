@@ -1,0 +1,37 @@
+{
+  "name": "Owsianka z owocami",
+  "description": "Prosty i zdrowy przepis na pyszne śniadanie. Owsianka z dodatkiem świeżych owoców to doskonały sposób na rozpoczęcie dnia.",
+  "ingredients": [
+    {
+      "name": "płatki owsiane",
+      "quantity": "50g"
+    },
+    {
+      "name": "mleko",
+      "quantity": "200ml"
+    },
+    {
+      "name": "banan",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "jagody",
+      "quantity": "50g"
+    },
+    {
+      "name": "miód",
+      "quantity": "1 łyżeczka"
+    }
+  ],
+  "preparation_steps": [
+    "1. W rondelku zagotuj mleko.",
+    "2. Dodaj płatki owsiane i gotuj na małym ogniu przez około 5-7 minut, aż staną się miękkie.",
+    "3. Pokrój banana na plasterki.",
+    "4. Po ugotowaniu owsianki przełóż ją do miski.",
+    "5. Dodaj pokrojonego banana, jagody i polej miodem.",
+    "6. Wymieszaj i podawaj na ciepło."
+  ],
+  "preparation_time": "10 minut",
+  "servings": 1,
+  "category": "Śniadanie"
+}

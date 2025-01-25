@@ -4,7 +4,7 @@ Smakolandia – Twoje kulinarne centrum odkryć! Witamy w Smakolandia, miejscu, 
 
 ## How to run?
 
-- Go to node-server directory and run `npm run webpack`
+- Go to node-server directory and run `npm run dev`
 - Go to react-app directory and run `npm run start`
 
 ## Wymagania funkcjonalne

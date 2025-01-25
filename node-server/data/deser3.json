@@ -1,0 +1,45 @@
+{
+  "name": "Brownie czekoladowe",
+  "description": "Pyszne, wilgotne brownie z czekoladą, które rozpływa się w ustach.",
+  "ingredients": [
+    {
+      "name": "czekolada gorzka",
+      "quantity": "200g"
+    },
+    {
+      "name": "masło",
+      "quantity": "150g"
+    },
+    {
+      "name": "cukier",
+      "quantity": "200g"
+    },
+    {
+      "name": "jajka",
+      "quantity": "3 sztuki"
+    },
+    {
+      "name": "mąka",
+      "quantity": "100g"
+    },
+    {
+      "name": "sól",
+      "quantity": "szczypta"
+    },
+    {
+      "name": "ekstrakt waniliowy",
+      "quantity": "1 łyżeczka"
+    }
+  ],
+  "preparation_steps": [
+    "1. Rozpuść masło z czekoladą w kąpieli wodnej lub mikrofali.",
+    "2. W misce wymieszaj cukier, jajka i ekstrakt waniliowy.",
+    "3. Dodaj roztopioną czekoladę z masłem do mieszanki cukrowo-jajecznej.",
+    "4. Dodaj przesianą mąkę i sól, dokładnie wymieszaj.",
+    "5. Wylej ciasto do foremki i piecz w 180°C przez około 25 minut.",
+    "6. Po ostygnięciu pokrój na kawałki i podawaj."
+  ],
+  "preparation_time": "15 minut + czas pieczenia",
+  "servings": 8,
+  "category": "Deser"
+}

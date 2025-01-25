@@ -1,0 +1,61 @@
+{
+  "name": "Sałatka z quinoa, awokado i warzywami",
+  "description": "Lekka, pożywna sałatka na bazie quinoa z awokado, świeżymi warzywami i orzeźwiającym dressingiem.",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "quantity": "100g"
+    },
+    {
+      "name": "awokado",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "pomidor",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "ogórek",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "papryka czerwona",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "czerwona cebula",
+      "quantity": "1/2 sztuki"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "quantity": "2 łyżki"
+    },
+    {
+      "name": "sok z cytryny",
+      "quantity": "1 łyżka"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "bazylia świeża",
+      "quantity": "garść"
+    }
+  ],
+  "preparation_steps": [
+    "1. Quinoa przepłucz pod zimną wodą, a następnie ugotuj zgodnie z instrukcją na opakowaniu (zwykle gotuje się przez około 15 minut). Odstaw do ostygnięcia.",
+    "2. W międzyczasie pokrój awokado w kostkę, pomidora, ogórka, paprykę i cebulę w drobną kostkę.",
+    "3. W dużej misce połącz ugotowaną i ostudzoną quinoa z pokrojonymi warzywami.",
+    "4. W osobnej miseczce przygotuj dressing, mieszając oliwę z oliwek, sok z cytryny, sól i pieprz.",
+    "5. Skrop dressingiem przygotowaną sałatkę i delikatnie wymieszaj.",
+    "6. Na koniec posyp świeżą bazylią. Podawaj od razu lub schłodzoną."
+  ],
+  "preparation_time": "25 minut",
+  "servings": 2,
+  "category": "Kolacja"
+}

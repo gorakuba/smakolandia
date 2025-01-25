@@ -1,0 +1,43 @@
+{
+  "name": "Pieczony kurczak z warzywami",
+  "description": "Aromatyczny kurczak pieczony z ziemniakami, marchewką i cebulą. Jedno danie, pełne smaku.",
+  "ingredients": [
+    {
+      "name": "kurczak (cały lub części)",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "ziemniaki",
+      "quantity": "4 sztuki"
+    },
+    {
+      "name": "marchewki",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "cebula",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "quantity": "3 łyżki"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    }
+  ],
+  "preparation_steps": [
+    "1. Pokrój warzywa na kawałki.",
+    "2. Kurczaka natrzyj oliwą, solą i pieprzem.",
+    "3. Ułóż kurczaka i warzywa na blasze do pieczenia.",
+    "4. Piecz w 180°C przez około 1 godzinę, aż kurczak będzie złocisty."
+  ],
+  "preparation_time": "1 godzina 20 minut",
+  "servings": 2,
+  "category": "Obiad"
+}

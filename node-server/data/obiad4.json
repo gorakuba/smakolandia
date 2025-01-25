@@ -1,0 +1,49 @@
+{
+  "name": "Łosoś pieczony z warzywami",
+  "description": "Delikatny łosoś pieczony w piekarniku z kolorowymi warzywami. Pyszne i zdrowe danie.",
+  "ingredients": [
+    {
+      "name": "filet z łososia",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "ziemniaki",
+      "quantity": "4 sztuki"
+    },
+    {
+      "name": "papryka czerwona",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "cukinia",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "quantity": "3 łyżki"
+    },
+    {
+      "name": "cytryna",
+      "quantity": "1/2 sztuki"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    }
+  ],
+  "preparation_steps": [
+    "1. Ugotuj ziemniaki w mundurkach przez 10 minut.",
+    "2. Pokrój warzywa na kawałki i wymieszaj z oliwą, solą i pieprzem.",
+    "3. Ułóż warzywa na blasze do pieczenia.",
+    "4. Na warzywach połóż filety z łososia, skrop sokiem z cytryny.",
+    "5. Piecz w 180°C przez 20 minut, aż ryba będzie gotowa.",
+    "6. Podawaj łososia z pieczonymi warzywami."
+  ],
+  "preparation_time": "40 minut",
+  "servings": 2,
+  "category": "Obiad"
+}

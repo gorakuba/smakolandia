@@ -1,0 +1,52 @@
+{
+  "name": "Sałatka z tuńczykiem i jajkiem",
+  "description": "Lekka sałatka z tuńczykiem, jajkiem na twardo, sałatą i pomidorami. Idealna na zdrową kolację.",
+  "ingredients": [
+    {
+      "name": "tuńczyk w sosie własnym",
+      "quantity": "1 puszka"
+    },
+    {
+      "name": "jajka",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "mix sałat",
+      "quantity": "100g"
+    },
+    {
+      "name": "pomidor",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "ogórek",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "quantity": "1 łyżka"
+    },
+    {
+      "name": "sok z cytryny",
+      "quantity": "1 łyżka"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    }
+  ],
+  "preparation_steps": [
+    "1. Jajka gotuj na twardo przez około 10 minut, a następnie pokrój w ćwiartki.",
+    "2. Pomidora i ogórka pokrój w plastry.",
+    "3. W misce ułóż mix sałat, pokrojone warzywa i tuńczyka odsączonego z zalewy.",
+    "4. Skrop całość oliwą z oliwek i sokiem z cytryny. Dopraw solą i pieprzem.",
+    "5. Na koniec dodaj pokrojone jajka i podawaj od razu."
+  ],
+  "preparation_time": "10 minut",
+  "servings": 2,
+  "category": "Kolacja"
+}

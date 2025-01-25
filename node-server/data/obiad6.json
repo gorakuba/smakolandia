@@ -1,0 +1,57 @@
+{
+  "name": "Spaghetti Bolognese",
+  "description": "Klasyczne włoskie danie z mięsnym sosem pomidorowym, podane z makaronem spaghetti. Pełne smaku i aromatu.",
+  "ingredients": [
+    {
+      "name": "mięso mielone wołowe",
+      "quantity": "400g"
+    },
+    {
+      "name": "spaghetti",
+      "quantity": "200g"
+    },
+    {
+      "name": "pomidory w puszce",
+      "quantity": "400g"
+    },
+    {
+      "name": "cebula",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "czosnek",
+      "quantity": "2 ząbki"
+    },
+    {
+      "name": "marchewka",
+      "quantity": "1 sztuka"
+    },
+    {
+      "name": "oliwa z oliwek",
+      "quantity": "2 łyżki"
+    },
+    {
+      "name": "sól",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "pieprz",
+      "quantity": "do smaku"
+    },
+    {
+      "name": "bazylia",
+      "quantity": "garść"
+    }
+  ],
+  "preparation_steps": [
+    "1. Ugotuj spaghetti zgodnie z instrukcją na opakowaniu.",
+    "2. Na oliwie zeszklij posiekaną cebulę, czosnek i startą marchewkę.",
+    "3. Dodaj mięso mielone i smaż przez kilka minut, aż się zarumieni.",
+    "4. Wlej pomidory z puszki, dodaj sól, pieprz i bazylię.",
+    "5. Gotuj sos przez 20 minut, aż zgęstnieje.",
+    "6. Podawaj sos na ugotowanym spaghetti."
+  ],
+  "preparation_time": "30 minut",
+  "servings": 2,
+  "category": "Obiad"
+}

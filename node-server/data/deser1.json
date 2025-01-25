@@ -1,0 +1,49 @@
+{
+  "name": "Tarta cytrynowa",
+  "description": "Zachwycająca tarta z lekką cytrynową masą, idealna na wyjątkowe okazje.",
+  "ingredients": [
+    {
+      "name": "mąka",
+      "quantity": "250g"
+    },
+    {
+      "name": "masło",
+      "quantity": "150g"
+    },
+    {
+      "name": "cukier puder",
+      "quantity": "50g"
+    },
+    {
+      "name": "żółtka",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "cytryny",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "cukier",
+      "quantity": "150g"
+    },
+    {
+      "name": "jajka",
+      "quantity": "2 sztuki"
+    },
+    {
+      "name": "śmietana 30%",
+      "quantity": "100ml"
+    }
+  ],
+  "preparation_steps": [
+    "1. Z mąki, masła, cukru pudru i żółtek zagnieć ciasto i wstaw do lodówki na 30 minut.",
+    "2. Rozwałkuj ciasto i wyłóż nim formę do tarty.",
+    "3. Piecz ciasto w 180°C przez 15-20 minut, aż będzie złociste.",
+    "4. W międzyczasie przygotuj masę cytrynową: zetrzyj skórkę z cytryn i wyciśnij sok.",
+    "5. Wymieszaj sok i skórkę z jajkami, cukrem i śmietaną. Gotuj całość na małym ogniu, aż zgęstnieje.",
+    "6. Wylej masę cytrynową na wystudzone ciasto i wstaw do lodówki na kilka godzin."
+  ],
+  "preparation_time": "30 minut + czas chłodzenia",
+  "servings": 6,
+  "category": "Deser"
+}
